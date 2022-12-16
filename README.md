@@ -45,9 +45,9 @@
 <details>
 <summary></summary>
 
-Obsidian Template Hub started on the 13th of June 2022. It was set up to gather information on as many note templates as possible.
+Obsidian Template Hub started on the 13th of June, 2022. It was set up to gather information on as many note templates as possible.
 
-Because every person have a different workflow, note structure, thinking process etc. This place was set up so every one can add the templates they use for others to try, test, adopt or reconfigure to fit the induvial needs.
+Because every person has a different workflow, note structure, thinking process, etc., this place was set up so everyone can add the templates they use - for others to try, test, adopt, or reconfigure - to fit their individual needs.
 
 </details>
 
@@ -59,7 +59,7 @@ Because every person have a different workflow, note structure, thinking process
 <details>
 <summary></summary>
 
-I recommend you download the repository and add to you Obsidian to view how the templates will look like. Make sure to have all the required plugins for the notes you are testing. 
+I recommend you download the repository and add to your Obsidian to view how the templates will look. Make sure to have all the required plugins for the notes you are testing. 
 
 You can also create a new Vault just to test the templates.
 
@@ -73,15 +73,15 @@ You can also create a new Vault just to test the templates.
 <details>
 <summary></summary>
 
-	❓ - How do i add the templates ?
+	❓ - How do I add the templates?
 
 A: Simply copy the templates folder or the specific template file to your vault.
 
-	❓ - How do I use the templates ?
+	❓ - How do I use the templates?
 
 A: As a general rule, most templates need to be "Imported". In other words, make sure you have at least Obsidian native templates option enabled and configured.
 
-	❓ - Can I contribute to the repository ?
+	❓ - Can I contribute to the repository?
 
 A: YES! You are free to submit any template you use.
 
@@ -93,7 +93,7 @@ A: As many as you want, however make sure to follow the [guide lines](#guide-lin
 
 A: Yes, just make sure to leave the credits for every one that contributed to the repository. You may link this repository contributors file.
 
-	❓ - I have some templates but i don't use GitHub. How can i contribute.
+	❓ - I have some templates but I don't use GitHub. How can I contribute?
 
 A: You can message me directly on Discord (Zektor#5616) or in Obsidian Forum (Zektor).
 
@@ -101,13 +101,13 @@ A: You can message me directly on Discord (Zektor#5616) or in Obsidian Forum (Ze
 
 A: If a template requires a plugin the exact name will be at the top of the template so you can search on the application. 
 
-	❓ - My question is not listed here, how can i get an answer ?
+	❓ - My question is not listed here, how can i get an answer?
 
 A: You can use the Obsidian Forum thread dedicated to this repository and I or some one else that have the knowledge will answer it, or you can directly message me in the forum and in Discord (Zektor#5616).
 
-	❓ - Where are the credits ?
+	❓ - Where are the credits?
 
-A: At the moment I started this repository I'm the only one. But if any one contributes there will be a credits section linking to the repository of all participants
+A: At the moment I started this repository, I'm the only one. But if any one contributes there will be a credits section linking to the repository of all participants
   
 
 </details>
@@ -122,7 +122,7 @@ A: At the moment I started this repository I'm the only one. But if any one cont
 
 Following is a list of rule that must be followed for any pull request to be accepted.
 
-1. If there is no folder for the template you want to add create the folder following the same rule. All folders start with a number followed by the specific type of template.
+1. If there is no folder for the template you want to add, create the folder following the same rule. All folders start with a number followed by the specific type of template.
 
     1. EX: 1 - Daily Notes
 
